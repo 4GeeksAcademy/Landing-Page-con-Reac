@@ -34,8 +34,8 @@ const Home = () => {
 	return (
 
 		<div className="text-center">
-			<Navbar></Navbar>
-			<Jumbotron></Jumbotron>
+			<Navbar/>
+			<Jumbotron/>
 			
 			<div className="d-flex justify-content-center flex-wrap">
 			
@@ -50,7 +50,7 @@ const Home = () => {
 				)
 			))}
 			</div>
-			<Footer></Footer>
+			<Footer/>
 		</div>
 	);
 };
