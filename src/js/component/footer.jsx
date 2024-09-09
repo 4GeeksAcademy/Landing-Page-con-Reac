@@ -5,7 +5,7 @@ const Footer = () => {
     return(
 
         <div class="alert alert-dark mt-5 bg-dark text-white pt-5" style={{height: "150px"}} role="alert">
-  Copy right @ Your Website 2024
+  Copy right! @ Your Website 2024
 </div>
 
     )
