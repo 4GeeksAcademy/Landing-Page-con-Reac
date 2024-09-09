@@ -2,7 +2,7 @@ import React from "react";
 
 const Cards = (props) => {
     return(
-        <div className="card mt-5 mx-3 pt-5" style={{width: "18rem"}}>
+        <div className="card mt-5 mx-3 " style={{width: "18rem"}}>
   <img src={props.image} className="card-img-top" alt="Card image"/>
   <div className="card-body">
     <h5 className="card-title">{props.title}</h5>
